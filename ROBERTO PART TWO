@@ -5,7 +5,7 @@ local Intro = Instance.new("ScreenGui")
 local Logo = Instance.new("ImageLabel")
 local Circle = Instance.new("UICorner")
 
-Intro.Name = "Intro"
+Intro.Name = "ROBERTO PART 2"
 Intro.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 Intro.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
@@ -188,8 +188,8 @@ end)
 Section:NewButton("Nome Joko🏷️", "Executar Script", function()
  game:GetService("ReplicatedStorage").RE["1RPNam1eTex1t"]:FireServer("RolePlayName","J̢͙̲̝̫̳̟̞̦̪̤o̧̭̟̠̩͎̱̩k̡̳̱̜̞̖̩͔͕̰̞o̢̮̯̮͎")
 end)
-Section:NewButton("Nome ADM🏷️", "Executar Script", function()
- game:GetService("ReplicatedStorage").RE["1RPNam1eTex1t"]:FireServer("RolePlayName","A͈̣̪̮͙̲͙͕̞͢ͅͅD͓̤̩͈͖͉̥͜M͎͉̮̪̘͔͢")
+Section:NewButton("Nome RObErTo🏷️", "Executar Script", function()
+ game:GetService("ReplicatedStorage").RE["1RPNam1eTex1t"]:FireServer("RolePlayName","ROoBErtoمطورسكربتؤ")
 end)
 Section:NewButton("Nome NotFound🏷️", "Executar Script", function()
  game:GetService("ReplicatedStorage").RE["1RPNam1eTex1t"]:FireServer("RolePlayName","N̢̯̰̘͙̖o̧̥̣͈̜̭̠̦̞̫̲ͅt̡̠͉̦̰̞F̝͕͇̣͚͓̖̝̪̦̫̣͢ǫ̤̯̘̝̲̫͈u̢͚̰̱̝̞̦̱ͅn̨͍͚͈̥̝d̨͎̩̠̙͉͍")
